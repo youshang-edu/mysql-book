@@ -1,4 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
+* [大纲介绍](README.md)
+* 1 数据库创建及用户管理
+    * [1.1 数据库及数据表创建](1/1.md)
+    * [1.2 创建用户并且赋权](1/2.md)
 
